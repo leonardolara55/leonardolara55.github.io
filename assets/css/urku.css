@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: red;
+  background-color: rgb(68, 67, 67);
   position: relative;
   z-index: 5;
 }
@@ -1351,7 +1351,7 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/goorin-bros-logo.jpg");
+  background-image: url("../img/8db35f97c6f3535c575c41c4698e8f38.w1500.h750.__CR0\,150\,1500\,450_PT0_SX600_V1___.jpg");
   background-position: 50% 100%;
   background-size: 350%;
 }
